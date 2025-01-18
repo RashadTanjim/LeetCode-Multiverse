@@ -8,6 +8,7 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,4 +19,20 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
