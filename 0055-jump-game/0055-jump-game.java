@@ -7,9 +7,9 @@ class Solution {
 
             if (steps < i) {
                 return false;
-            } else if (steps < i + nums[i]) {
-                steps = i + nums[i];
             }
+
+            steps = Math.max(steps, i + nums[i]);
 
             if (steps >= nums.length - 1) {
                 return true;
