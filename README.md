@@ -12,6 +12,7 @@ Collection of LeetCode questions & solutions.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -49,4 +51,8 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0189-rotate-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
