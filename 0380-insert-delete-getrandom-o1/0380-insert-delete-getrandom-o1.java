@@ -2,21 +2,22 @@ import java.util.*;
 
 class RandomizedSet {
 
-    private List<Integer> list;
+    private ArrayList<Integer> list;
     private Map<Integer, Integer> map; // Maps value to its index in the list
-    private Random random;
 
     public RandomizedSet() {
         this.list = new ArrayList<>();
         this.map = new HashMap<>();
-        this.random = new Random();
+    }
+
+    private boolean search(int val) {
+        return map.containsKey(val);
     }
 
     public boolean insert(int val) {
 
-        if (map.containsKey(val)) {
+        if (search(val))
             return false;
-        }
 
         map.put(val, list.size());
         list.add(val);
@@ -25,19 +26,12 @@ class RandomizedSet {
 
     public boolean remove(int val) {
 
-        if (!map.containsKey(val)) {
+        if (!search(val))
             return false;
-        }
 
-        // Get the index of the value to be removed
         int index = map.get(val);
-        int lastElement = list.get(list.size() - 1);
-
-        // Swap the last element with the element to be removed
-        list.set(index, lastElement);
-        map.put(lastElement, index);
-
-        // Remove the last element
+        list.set(index, list.get(list.size() - 1));
+        map.put(list.get(index), index);
         list.remove(list.size() - 1);
         map.remove(val);
 
@@ -45,8 +39,8 @@ class RandomizedSet {
     }
 
     public int getRandom() {
-        int randomIndex = random.nextInt(list.size());
-        return list.get(randomIndex);
+        Random rand = new Random();
+        return list.get(rand.nextInt(list.size()));
     }
 }
 
