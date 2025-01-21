@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150">380. Insert Delete GetRandom O(1)</a></h2><h3>Medium</h3><hr><p>Implement the <code>RandomizedSet</code> class:</p>
+<h2><a href="https://leetcode.com/problems/insert-delete-getrandom-o1">380. Insert Delete GetRandom O(1)</a></h2><h3>Medium</h3><hr><p>Implement the <code>RandomizedSet</code> class:</p>
 
 <ul>
 	<li><code>RandomizedSet()</code> Initializes the <code>RandomizedSet</code> object.</li>

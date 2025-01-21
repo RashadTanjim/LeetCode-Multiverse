@@ -2,42 +2,51 @@ import java.util.*;
 
 class RandomizedSet {
 
-    private HashSet<Integer> set;
+    private List<Integer> list;
+    private Map<Integer, Integer> map; // Maps value to its index in the list
     private Random random;
 
     public RandomizedSet() {
-        this.set = new HashSet();
+        this.list = new ArrayList<>();
+        this.map = new HashMap<>();
         this.random = new Random();
     }
 
     public boolean insert(int val) {
 
-        if (!set.contains(val)) {
-            set.add(val);
-            return true;
+        if (map.containsKey(val)) {
+            return false;
         }
-        return false;
+
+        map.put(val, list.size());
+        list.add(val);
+        return true;
     }
 
     public boolean remove(int val) {
 
-        if (set.contains(val)) {
-            set.remove(val);
-            return true;
+        if (!map.containsKey(val)) {
+            return false;
         }
-        return false;
+
+        // Get the index of the value to be removed
+        int index = map.get(val);
+        int lastElement = list.get(list.size() - 1);
+
+        // Swap the last element with the element to be removed
+        list.set(index, lastElement);
+        map.put(lastElement, index);
+
+        // Remove the last element
+        list.remove(list.size() - 1);
+        map.remove(val);
+
+        return true;
     }
 
     public int getRandom() {
-
-        int randomIndex = random.nextInt(set.size());
-
-        Iterator<Integer> it = set.iterator();
-        for (int i = 0; i < randomIndex; i++) {
-            it.next();
-        }
-
-        return it.next();
+        int randomIndex = random.nextInt(list.size());
+        return list.get(randomIndex);
     }
 }
 
