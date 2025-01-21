@@ -4,10 +4,13 @@ class RandomizedSet {
 
     private ArrayList<Integer> list;
     private Map<Integer, Integer> map; // Maps value to its index in the list
+    private int size = 0;
+    private Random rand;
 
     public RandomizedSet() {
         this.list = new ArrayList<>();
         this.map = new HashMap<>();
+        this.rand = new Random();
     }
 
     private boolean search(int val) {
@@ -21,6 +24,8 @@ class RandomizedSet {
 
         map.put(val, list.size());
         list.add(val);
+        size++;
+
         return true;
     }
 
@@ -30,16 +35,19 @@ class RandomizedSet {
             return false;
 
         int index = map.get(val);
-        list.set(index, list.get(list.size() - 1));
-        map.put(list.get(index), index);
-        list.remove(list.size() - 1);
+        int temp = list.get(size - 1);
+
+        list.set(index, temp);
+        map.put(temp, index);
+
+        list.remove(size - 1);
         map.remove(val);
+        size--;
 
         return true;
     }
 
     public int getRandom() {
-        Random rand = new Random();
         return list.get(rand.nextInt(list.size()));
     }
 }
