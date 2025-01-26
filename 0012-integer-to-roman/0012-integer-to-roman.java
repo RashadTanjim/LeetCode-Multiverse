@@ -5,16 +5,16 @@ class Solution {
 
     public String intToRoman(int num) {
 
-        String roman = "";
+        StringBuilder roman = new StringBuilder();
 
         for (int i = 0; i < n.length; i++) {
 
             while (num >= n[i]) { // Deduct values as long as the current numeral can be used
-                roman += s[i];
+                roman.append(s[i]);
                 num -= n[i];
             }
         }
 
-        return roman;
+        return roman.toString();
     }
 }
