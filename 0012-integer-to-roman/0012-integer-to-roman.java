@@ -3,17 +3,14 @@ class Solution {
 
         int[] n = { 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1 };
         String[] s = { "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I" };
-        int i = 0;
 
         String roman = "";
 
-        while (num > 0) {
+        for (int i = 0; i < n.length; i++) {
 
-            if (num >= n[i]) {
-                roman = roman + s[i];
+            while (num >= n[i]) { // Deduct values as long as the current numeral can be used
+                roman += s[i];
                 num -= n[i];
-            } else {
-                i++;
             }
         }
 
