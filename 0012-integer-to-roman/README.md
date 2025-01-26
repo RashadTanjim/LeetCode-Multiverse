@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/integer-to-roman/">12. Integer to Roman</a></h2><h3>Medium</h3><hr><div><p>Seven different symbols represent Roman numerals with the following values:</p>
+<h2><a href="https://leetcode.com/problems/integer-to-roman">12. Integer to Roman</a></h2><h3>Medium</h3><hr><p>Seven different symbols represent Roman numerals with the following values:</p>
 
 <table>
 	<thead>
@@ -55,11 +55,12 @@
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">num = 3749</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">"MMMDCCXLIX"</span></p>
+<p><strong>Output:</strong> <span class="example-io">&quot;MMMDCCXLIX&quot;</span></p>
 
 <p><strong>Explanation:</strong></p>
 
-<pre>3000 = MMM as 1000 (M) + 1000 (M) + 1000 (M)
+<pre>
+3000 = MMM as 1000 (M) + 1000 (M) + 1000 (M)
  700 = DCC as 500 (D) + 100 (C) + 100 (C)
   40 = XL as 10 (X) less of 50 (L)
    9 = IX as 1 (I) less of 10 (X)
@@ -72,11 +73,12 @@ Note: 49 is not 1 (I) less of 50 (L) because the conversion is based on decimal 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">num = 58</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">"LVIII"</span></p>
+<p><strong>Output:</strong> <span class="example-io">&quot;LVIII&quot;</span></p>
 
 <p><strong>Explanation:</strong></p>
 
-<pre>50 = L
+<pre>
+50 = L
  8 = VIII
 </pre>
 </div>
@@ -86,11 +88,12 @@ Note: 49 is not 1 (I) less of 50 (L) because the conversion is based on decimal 
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">num = 1994</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">"MCMXCIV"</span></p>
+<p><strong>Output:</strong> <span class="example-io">&quot;MCMXCIV&quot;</span></p>
 
 <p><strong>Explanation:</strong></p>
 
-<pre>1000 = M
+<pre>
+1000 = M
  900 = CM
   90 = XC
    4 = IV
@@ -103,4 +106,3 @@ Note: 49 is not 1 (I) less of 50 (L) because the conversion is based on decimal 
 <ul>
 	<li><code>1 &lt;= num &lt;= 3999</code></li>
 </ul>
-</div>
