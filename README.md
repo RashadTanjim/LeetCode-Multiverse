@@ -6,6 +6,7 @@ Collection of LeetCode questions & solutions.
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions & solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions & solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0189-rotate-array) |
 ## Counting Sort
 |  |
@@ -75,4 +78,12 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
