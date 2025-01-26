@@ -12,12 +12,12 @@ class Solution {
         while (left < right) {
 
             if (leftMax < rightMax) {
-                left += 1;
+                left++;
                 leftMax = leftMax > height[left] ? leftMax : height[left];
                 result += leftMax - height[left];
 
             } else {
-                right -= 1;
+                right--;
                 rightMax = rightMax > height[right] ? rightMax : height[right];
                 result += rightMax - height[right];
             }
