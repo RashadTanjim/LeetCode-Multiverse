@@ -33,15 +33,8 @@ readme_path = "README.md"
 with open(readme_path, "r") as f:
     readme_content = f.readlines()
 
-# Replace or add the graph image in the README
+# Add the graph image at the top with a smaller size using HTML
 with open(readme_path, "w") as f:
-    updated_content = []
-    image_line = f"![LeetCode Stats]({image_path})\n"
-    for line in readme_content:
-        if "![LeetCode Stats]" in line:
-            updated_content.append(image_line)
-        else:
-            updated_content.append(line)
-    if image_line not in updated_content:
-        updated_content.append("\n## LeetCode Stats\n" + image_line)
+    image_html = f'<img src="{image_path}" alt="LeetCode Stats" width="400">\n\n'
+    updated_content = [image_html] + readme_content
     f.writelines(updated_content)
