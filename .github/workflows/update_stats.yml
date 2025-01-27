@@ -21,7 +21,7 @@ jobs:
         run: pip install matplotlib
 
       - name: Run stats script
-        run: python your_script_name.py
+        run: python stats_update.py
 
       - name: Commit and push changes
         run: |
