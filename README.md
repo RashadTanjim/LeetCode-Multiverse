@@ -103,6 +103,7 @@ Collection of LeetCode questions & solutions.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0014-longest-common-prefix) |
