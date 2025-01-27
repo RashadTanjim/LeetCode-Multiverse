@@ -35,6 +35,6 @@ with open(readme_path, "r") as f:
 
 # Add the graph image at the top with smaller size using HTML
 with open(readme_path, "w") as f:
-    image_html = f'<img src="{image_path}" alt="\n ## LeetCode Stats" width="400">\n\n'
-    updated_content = readme_content + [image_html]
+    image_html = f'<img src="{image_path}" alt="LeetCode Stats" width="400">\n\n'
+    updated_content = readme_content + "\n\n" + [image_html]
     f.writelines(updated_content)
