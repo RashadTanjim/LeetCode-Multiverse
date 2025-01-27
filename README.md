@@ -1,7 +1,8 @@
-<img src="leetcode_stats.png" alt="LeetCode Stats" width="400">
-
 # LeetCode-Multiverse
 Collection of LeetCode questions & solutions.
+
+## LeetCode Stats
+<img src="leetcode_stats.png" alt="LeetCode Stats" width="400">
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -116,5 +117,4 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
-## LeetCode Stats
-![LeetCode Stats](leetcode_stats.png)
+
