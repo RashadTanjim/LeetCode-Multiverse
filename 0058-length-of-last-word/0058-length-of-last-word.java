@@ -1,29 +1,28 @@
 class Solution {
     public int lengthOfLastWord(String s) {
 
-        int length = 0;
-        boolean count = false;
+        String[] words = s.split(" ");
+        return words[words.length - 1].length();
 
-        for (char c : s.toCharArray()) {
+        // int length = 0;
+        // boolean count = false;
 
-            if (c != ' ') {
+        // for (char c : s.toCharArray()) {
 
-                if (!count) {
+        // if (c != ' ') {
 
-                    count = true;
-                    length = 1;
-                } else {
-                    length++;
-                }
-            } else {
-                count = false;
-            }
-        }
+        // if (!count) {
 
-        return length;
+        // count = true;
+        // length = 1;
+        // } else {
+        // length++;
+        // }
+        // } else {
+        // count = false;
+        // }
+        // }
+        // return length;
 
-        // var arr = s.split(" ");
-        // String lastWord = arr[arr.length - 1];
-        // return lastWord.length();
     }
 }
