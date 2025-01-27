@@ -9,6 +9,7 @@ Collection of LeetCode questions & solutions.
 | [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0134-gas-station) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions & solutions.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 ## Counting
@@ -65,6 +67,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0189-rotate-array) |
 ## Counting Sort
 |  |
