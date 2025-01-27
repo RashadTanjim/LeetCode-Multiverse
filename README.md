@@ -115,3 +115,6 @@ Collection of LeetCode questions & solutions.
 | [0014-longest-common-prefix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 
+<img src="leetcode_stats.png" alt="
+ ## LeetCode Stats" width="400">
+
