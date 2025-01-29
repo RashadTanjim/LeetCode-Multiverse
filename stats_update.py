@@ -1,6 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 import numpy as np
+import re
 
 # Path to your JSON file
 json_path = "stats.json"
@@ -68,12 +69,11 @@ with open(readme_path, "r") as f:
     readme_content = f.read()
 
 # Remove any existing image tag
-import re
 readme_content = re.sub(r'<img src="leetcode_stats.png".*?>\n\n', '', readme_content)
 
-# Add the new image tag at the top
-image_html = f'<img src="{image_path}" alt="LeetCode Stats" width="600">\n\n'
-updated_content = image_html + readme_content
+# Append the new image at the bottom
+image_html = f'\n\n<img src="{image_path}" alt="LeetCode Stats" width="600">\n'
+updated_content = readme_content.strip() + image_html  # Ensures there's no trailing spaces
 
 # Write back to the README file
 with open(readme_path, "w") as f:
