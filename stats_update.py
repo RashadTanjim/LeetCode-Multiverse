@@ -1,5 +1,6 @@
 import json
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Path to your JSON file
 json_path = "stats.json"
@@ -8,33 +9,74 @@ json_path = "stats.json"
 with open(json_path, "r") as f:
     data = json.load(f)
     solved = data["leetcode"]["solved"]
-    easy = data["leetcode"]["easy"]
-    medium = data["leetcode"]["medium"]
-    hard = data["leetcode"]["hard"]
+    problems = data["leetcode"]["shas"]
 
-# Generate the chart
-labels = ['Easy', 'Medium', 'Hard']
-sizes = [easy, medium, hard]
-colors = ['#76c7c0', '#ffb347', '#ff6961']
-explode = (0.1, 0.1, 0.1)
+# Categorize problems by difficulty
+difficulty_count = {"Easy": 0, "Medium": 0, "Hard": 0}
+problem_labels = {"Easy": [], "Medium": [], "Hard": []}
 
-plt.figure(figsize=(8, 8))
-plt.pie(sizes, explode=explode, labels=labels, colors=colors, autopct='%1.1f%%',
-        shadow=True, startangle=140, textprops={'fontsize': 14})
-plt.title(f"LeetCode Stats: {solved} Problems Solved", fontsize=16)
+for problem, details in problems.items():
+    if details.get("difficulty") and details.get("sha"):
+        difficulty = details["difficulty"].capitalize()
+        difficulty_count[difficulty] += 1
+        problem_labels[difficulty].append(problem)
 
-# Save the graph as an image
+# Define chart colors
+colors = {'Easy': '#76c7c0', 'Medium': '#ffb347', 'Hard': '#ff6961'}
+
+# Create a figure with two subplots
+fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+
+# Pie Chart: Distribution of Problem Difficulties
+labels = list(difficulty_count.keys())
+sizes = list(difficulty_count.values())
+explode = (0.1, 0.1, 0.1)  
+
+axes[0].pie(sizes, explode=explode, labels=labels, colors=[colors[l] for l in labels], 
+            autopct='%1.1f%%', shadow=True, startangle=140, textprops={'fontsize': 12})
+axes[0].set_title(f"LeetCode Stats: {solved} Problems Solved", fontsize=14)
+
+# Bar Chart: Individual Problems
+x_labels = []
+y_values = []
+bar_colors = []
+
+for idx, (difficulty, problems) in enumerate(problem_labels.items()):
+    x_labels.extend(problems)
+    y_values.extend([idx] * len(problems))  # Assign each problem to its difficulty level
+    bar_colors.extend([colors[difficulty]] * len(problems))
+
+y_positions = np.arange(len(x_labels))
+
+axes[1].barh(y_positions, y_values, color=bar_colors)
+axes[1].set_yticks(y_positions)
+axes[1].set_yticklabels(x_labels, fontsize=10)
+axes[1].set_xlabel("Difficulty Levels")
+axes[1].set_title("Problems Solved by Category", fontsize=14)
+
+# Adjust layout and save image
+plt.tight_layout()
 image_path = "leetcode_stats.png"
 plt.savefig(image_path)
 plt.close()
 
 # Update the README.md file
 readme_path = "README.md"
-with open(readme_path, "r") as f:
-    readme_content = f.readlines()
 
-# Add the graph image at the top with smaller size using HTML
+# Read the existing content
+with open(readme_path, "r") as f:
+    readme_content = f.read()
+
+# Remove any existing image tag
+import re
+readme_content = re.sub(r'<img src="leetcode_stats.png".*?>\n\n', '', readme_content)
+
+# Add the new image tag at the top
+image_html = f'<img src="{image_path}" alt="LeetCode Stats" width="600">\n\n'
+updated_content = image_html + readme_content
+
+# Write back to the README file
 with open(readme_path, "w") as f:
-    image_html = f'<img src="{image_path}" alt="LeetCode Stats" width="400">\n\n'
-    updated_content = readme_content + [image_html]
-    f.writelines(updated_content)
+    f.write(updated_content)
+
+print(f"Updated README.md and saved chart as {image_path}")
