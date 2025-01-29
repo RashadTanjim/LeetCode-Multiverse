@@ -1,5 +1,3 @@
-<img src="leetcode_stats.png" alt="LeetCode Stats" width="600">
-
 # LeetCode-Multiverse
 Collection of LeetCode questions & solutions.
 
@@ -131,5 +129,4 @@ Collection of LeetCode questions & solutions.
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
 
-
-
+<img src="leetcode_stats.png" alt="LeetCode Stats" width="600">
