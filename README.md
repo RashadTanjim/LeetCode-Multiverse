@@ -1,3 +1,5 @@
+<img src="leetcode_stats.png" alt="LeetCode Stats" width="600">
+
 # LeetCode-Multiverse
 Collection of LeetCode questions & solutions.
 
@@ -130,14 +132,4 @@ Collection of LeetCode questions & solutions.
 <!---LeetCode Topics End-->
 
 
-
-<img src="leetcode_stats.png" alt="LeetCode Stats" width="400">
-
-<img src="leetcode_stats.png" alt="LeetCode Stats" width="400">
-
-<img src="leetcode_stats.png" alt="LeetCode Stats" width="400">
-
-<img src="leetcode_stats.png" alt="LeetCode Stats" width="400">
-
-<img src="leetcode_stats.png" alt="LeetCode Stats" width="400">
 
