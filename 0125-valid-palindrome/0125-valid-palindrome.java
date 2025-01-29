@@ -8,12 +8,10 @@ class Solution {
 
             if (s.charAt(start) != s.charAt(end)) {
                 return false;
-            } else {
-                start++;
-                end--;
             }
+            start++;
+            end--;
         }
-
         return true;
     }
 }
