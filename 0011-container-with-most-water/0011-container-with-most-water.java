@@ -1,26 +1,19 @@
 class Solution {
-    public int maxArea(int[] height) {
-        
-        int firstIndex = 0, secondIndex = height.length - 1, maxAmount = 0;
-        
-        while(firstIndex < secondIndex) {
-            
-            if(height[firstIndex] < height[secondIndex]) {
-                
-                maxAmount =  (maxAmount > height[firstIndex] * (secondIndex - firstIndex)) ?
-                    maxAmount : height[firstIndex] * (secondIndex - firstIndex);
-                
-                firstIndex += 1;
-                
-            }  else {
-                
-                maxAmount = (maxAmount > height[secondIndex] * (secondIndex - firstIndex)) ?
-                    maxAmount : height[secondIndex] * (secondIndex - firstIndex);
-                
-                secondIndex -= 1;
+    public int maxArea(int[] height) { // two pointer approach
+
+        int start = 0, end = height.length - 1, maxArea = 0;
+
+        while (start < end) {
+            // MaxArea -> height * min width from start or end
+            maxArea = Math.max(maxArea, (end - start) * Math.min(height[start], height[end]));
+
+            if (height[start] < height[end]) {
+                start++;
+            } else {
+                end--;
             }
         }
-        
-        return maxAmount;
+
+        return maxArea;
     }
 }
