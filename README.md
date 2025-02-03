@@ -157,3 +157,5 @@ Collection of LeetCode questions & solutions.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
+
+<img src="leetcode_stats.png" alt="LeetCode Stats" width="600">
