@@ -6,24 +6,23 @@ class Solution {
         if (s == null || words == null || words.length == 0)
             return result;
 
-        int wordLen = words[0].length(); // Length of each word
-        int wordCount = words.length; // Number of words
-        int windowLen = wordLen * wordCount; // Length of valid substring
+        int wordLen = words[0].length();
+        int wordCount = words.length;
+        int windowLen = wordLen * wordCount;
 
         if (s.length() < windowLen)
             return result;
 
-        // Store the frequency of words in `words`
+        // Store word frequency
         Map<String, Integer> wordMap = new HashMap<>();
         for (String word : words) {
             wordMap.put(word, wordMap.getOrDefault(word, 0) + 1);
         }
 
-        // Iterate over possible start positions in s
+        // Iterate over possible start positions
         for (int i = 0; i < wordLen; i++) {
             int left = i, right = i;
             Map<String, Integer> seenWords = new HashMap<>();
-            int count = 0;
 
             while (right + wordLen <= s.length()) {
                 String word = s.substring(right, right + wordLen);
@@ -31,21 +30,20 @@ class Solution {
 
                 if (wordMap.containsKey(word)) {
                     seenWords.put(word, seenWords.getOrDefault(word, 0) + 1);
-                    count++;
 
+                    // checks if the current window has more occurrences of word than allowed
                     while (seenWords.get(word) > wordMap.get(word)) {
                         String leftWord = s.substring(left, left + wordLen);
                         seenWords.put(leftWord, seenWords.get(leftWord) - 1);
-                        count--;
                         left += wordLen;
                     }
 
-                    if (count == wordCount) {
+                    if (right - left == windowLen) {
                         result.add(left);
                     }
                 } else {
+                    // Reset everything if word not found
                     seenWords.clear();
-                    count = 0;
                     left = right;
                 }
             }
