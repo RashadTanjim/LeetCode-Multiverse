@@ -13,6 +13,7 @@ Collection of LeetCode questions & solutions.
 | [0036-valid-sudoku](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions & solutions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -165,6 +167,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
 
 <img src="leetcode_stats.png" alt="LeetCode Stats" width="600">
