@@ -1,20 +1,22 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
 
-        int[] mapS = new int[256]; // ASCII values
-        int[] mapT = new int[256];
+        Map<Character, Character> map = new HashMap<>();
+        Set<Character> mappedValues = new HashSet<>();
 
         for (int i = 0; i < s.length(); i++) {
-
             char charS = s.charAt(i);
             char charT = t.charAt(i);
 
-            if (mapS[charS] != mapT[charT]) {
-                return false;
+            if (map.containsKey(charS)) {
+                if (map.get(charS) != charT)
+                    return false; // Conflict
+            } else {
+                if (mappedValues.contains(charT))
+                    return false; // Prevent multiple mappings
+                map.put(charS, charT);
+                mappedValues.add(charT);
             }
-
-            mapS[charS] = i + 1; // Store index + 1
-            mapT[charT] = i + 1;
         }
 
         return true;
