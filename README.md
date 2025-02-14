@@ -18,6 +18,7 @@ Collection of LeetCode questions & solutions.
 | [0049-group-anagrams](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0015-3sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0242-valid-anagram) |
