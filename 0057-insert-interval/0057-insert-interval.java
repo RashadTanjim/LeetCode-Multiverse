@@ -24,7 +24,11 @@ class Solution {
             i++;
         }
 
-        // Convert List<int[]> to int[][]
-        return result.toArray(new int[result.size()][]);
+        int[][] resultList = new int[result.size()][2];
+        for (int j = 0; j < result.size(); j++) {
+            resultList[j] = result.get(j);
+        }
+        
+        return resultList;
     }
 }
