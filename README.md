@@ -39,6 +39,7 @@ Collection of LeetCode questions & solutions.
 | [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ Collection of LeetCode questions & solutions.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions & solutions.
 | [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Counting
 |  |
 | ------- |
