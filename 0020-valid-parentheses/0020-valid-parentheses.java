@@ -19,9 +19,9 @@ class Solution {
                 char pop = chars[top];
                 top -= 1;
 
-                if ((pop == '(') && c != ')' ||
-                        (pop == '{') && c != '}' ||
-                        (pop == '[') && c != ']') {
+                if (!((pop == '(' && c == ')') ||
+                        (pop == '[' && c == ']') ||
+                        (pop == '{' && c == '}'))) {
                     return false;
                 }
             }
