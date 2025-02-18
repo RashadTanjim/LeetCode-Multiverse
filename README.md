@@ -217,5 +217,3 @@ Collection of LeetCode questions & solutions.
 <!---LeetCode Topics End-->
 
 <img src="leetcode_stats.png" alt="LeetCode Stats" width="600">
-
-<img src="leetcode_stats.png" alt="LeetCode Stats" width="600">
