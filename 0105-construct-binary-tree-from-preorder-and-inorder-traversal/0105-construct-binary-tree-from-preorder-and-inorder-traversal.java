@@ -16,9 +16,10 @@
 class Solution {
 
     int preIndex = 0;
-    HashMap<Integer, Integer> inMap = new HashMap<>();
+    HashMap<Integer, Integer> inMap;
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        inMap = new HashMap<>();
 
         for (int i = 0; i < inorder.length; i++) {
             inMap.put(inorder[i], i); // (key,value) -> (array value, index)
