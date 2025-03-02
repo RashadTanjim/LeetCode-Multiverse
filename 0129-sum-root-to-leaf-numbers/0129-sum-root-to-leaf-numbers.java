@@ -14,35 +14,23 @@
  * }
  * }
  */
-import java.util.*;
-
 class Solution {
     public int sumNumbers(TreeNode root) {
-        if (root == null)
+        return dfs(root, 0);
+    }
+
+    private int dfs(TreeNode node, int currentSum) {
+        if (node == null)
             return 0;
 
-        int totalSum = 0;
-        Stack<Map.Entry<TreeNode, Integer>> stack = new Stack<>();
-        stack.push(new AbstractMap.SimpleEntry<>(root, 0));
+        currentSum = currentSum * 10 + node.val;
 
-        while (!stack.isEmpty()) {
-
-            Map.Entry<TreeNode, Integer> pair = stack.pop();
-            TreeNode node = pair.getKey();
-            int currentSum = pair.getValue() * 10 + node.val;
-
-            if (node.left == null && node.right == null) {
-                totalSum += currentSum;
-            }
-
-            if (node.right != null) {
-                stack.push(new AbstractMap.SimpleEntry<>(node.right, currentSum));
-            }
-            if (node.left != null) {
-                stack.push(new AbstractMap.SimpleEntry<>(node.left, currentSum));
-            }
+        // If it's a leaf node, return the accumulated sum
+        if (node.left == null && node.right == null) {
+            return currentSum;
         }
 
-        return totalSum;
+        // Recursively sum left and right subtrees
+        return dfs(node.left, currentSum) + dfs(node.right, currentSum);
     }
 }
