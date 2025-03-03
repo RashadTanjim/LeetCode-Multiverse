@@ -10,8 +10,12 @@
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 
-        // Base case: If root is null, or if we find either p or q, return root
-        if (root == null || root.val == p.val || root.val == q.val)
+        // Base case: If root is null return null
+        if (root == null)
+            return null;
+
+        // if we find either p or q, return root
+        if (root.val == p.val || root.val == q.val)
             return root;
 
         // Search in the left and right subtree
