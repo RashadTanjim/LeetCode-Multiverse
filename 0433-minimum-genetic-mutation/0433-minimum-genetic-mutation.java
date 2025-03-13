@@ -1,52 +1,53 @@
 class Solution {
     public int minMutation(String startGene, String endGene, String[] bank) {
-        Set<String> bankSet = new HashSet<>(Arrays.asList(bank));
-        if (!bankSet.contains(endGene))
-            return -1;
+        Queue<String> queue = new LinkedList<>();
+        boolean[] visited = new boolean[bank.length];
 
-        char[] genes = { 'A', 'C', 'G', 'T' };
-        Set<String> beginSet = new HashSet<>(), endSet = new HashSet<>(), visited = new HashSet<>();
-
-        beginSet.add(startGene);
-        endSet.add(endGene);
+        queue.offer(startGene);
         int mutations = 0;
 
-        while (!beginSet.isEmpty() && !endSet.isEmpty()) {
+        // Process the queue using BFS
+        while (!queue.isEmpty()) {
+            int size = queue.size();
 
-            if (beginSet.size() > endSet.size()) {
-                Set<String> temp = beginSet;
-                beginSet = endSet;
-                endSet = temp;
-            }
+            for (int i = 0; i < size; i++) {
+                String currentGene = queue.poll();
 
-            Set<String> nextLevel = new HashSet<>();
-            for (String gene : beginSet) {
-                char[] geneArray = gene.toCharArray();
+                // If we've reached the end gene, return the number of mutations
+                if (currentGene.equals(endGene)) {
+                    return mutations;
+                }
 
-                for (int i = 0; i < geneArray.length; i++) {
-                    char originalChar = geneArray[i];
+                // Try all genes in the bank to see if they differ by exactly one character
+                for (int j = 0; j < bank.length; j++) {
 
-                    for (char g : genes) {
-                        if (g == originalChar)
-                            continue;
-                        geneArray[i] = g;
-                        String newGene = new String(geneArray);
+                    if (visited[j])
+                        continue;
 
-                        if (endSet.contains(newGene))
-                            return mutations + 1;
-
-                        if (bankSet.contains(newGene) && !visited.contains(newGene)) {
-                            nextLevel.add(newGene);
-                            visited.add(newGene);
-                        }
+                    if (isOneMutationApart(bank[j], currentGene)) {
+                        visited[j] = true; // Mark as visited
+                        queue.offer(bank[j]);
                     }
-                    geneArray[i] = originalChar;
                 }
             }
-            beginSet = nextLevel;
             mutations++;
         }
 
         return -1;
+    }
+
+    // Helper function to check if two genes differ by exactly one character
+    private boolean isOneMutationApart(String gene1, String gene2) {
+        int differences = 0;
+
+        for (int i = 0; i < gene1.length(); i++) {
+
+            if (gene1.charAt(i) != gene2.charAt(i)) {
+                differences++;
+                if (differences > 1)
+                    return false;
+            }
+        }
+        return differences == 1;
     }
 }
