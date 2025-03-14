@@ -91,6 +91,7 @@ Collection of LeetCode questions & solutions.
 | [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0290-word-pattern) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions & solutions.
 | [0146-lru-cache](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -208,6 +210,7 @@ Collection of LeetCode questions & solutions.
 | [0127-word-ladder](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0290-word-pattern) |
@@ -219,6 +222,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
 | ------- |
