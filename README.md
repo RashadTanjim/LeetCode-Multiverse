@@ -18,6 +18,7 @@ Collection of LeetCode questions & solutions.
 | [0046-permutations](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0056-merge-intervals) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions & solutions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0212-word-search-ii) |
