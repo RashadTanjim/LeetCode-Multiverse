@@ -25,6 +25,7 @@ Collection of LeetCode questions & solutions.
 | [0057-insert-interval](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions & solutions.
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0151-reverse-words-in-a-string) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions & solutions.
 | [0048-rotate-image](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0212-word-search-ii) |
@@ -334,6 +337,7 @@ Collection of LeetCode questions & solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0101-symmetric-tree) |
@@ -444,6 +448,7 @@ Collection of LeetCode questions & solutions.
 | [0051-n-queens](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
 
