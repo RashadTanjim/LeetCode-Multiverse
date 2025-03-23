@@ -52,6 +52,7 @@ Collection of LeetCode questions & solutions.
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@ Collection of LeetCode questions & solutions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
+| [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +281,7 @@ Collection of LeetCode questions & solutions.
 | [0200-number-of-islands](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 ## Union Find
 |  |
@@ -341,6 +344,7 @@ Collection of LeetCode questions & solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 ## Depth-First Search
 |  |
 | ------- |
