@@ -110,6 +110,7 @@ Collection of LeetCode questions & solutions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions & solutions.
 | [0002-add-two-numbers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -466,7 +468,12 @@ Collection of LeetCode questions & solutions.
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
 
 <img src="leetcode_stats.png" alt="LeetCode Stats" width="300">
