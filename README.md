@@ -43,6 +43,7 @@ Collection of LeetCode questions & solutions.
 | [0130-surrounded-regions](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0162-find-peak-element) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0222-count-complete-tree-nodes) |
