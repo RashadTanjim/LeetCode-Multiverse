@@ -164,6 +164,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0048-rotate-image) |
