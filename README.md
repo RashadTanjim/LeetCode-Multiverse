@@ -171,6 +171,7 @@ Collection of LeetCode questions & solutions.
 | [0048-rotate-image](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0189-rotate-array) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions & solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0162-find-peak-element) |
