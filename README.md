@@ -64,6 +64,7 @@ Collection of LeetCode questions & solutions.
 | [0238-product-of-array-except-self](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions & solutions.
 | [0124-binary-tree-maximum-path-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions & solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
