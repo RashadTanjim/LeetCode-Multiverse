@@ -38,6 +38,7 @@ Collection of LeetCode questions & solutions.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0128-longest-consecutive-sequence) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions & solutions.
 | [0053-maximum-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0124-binary-tree-maximum-path-sum) |
