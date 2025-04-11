@@ -1,39 +1,29 @@
 class Solution {
-    public String longestPalindrome(String s) { // Manacherâs Algorithm 
-        if (s == null || s.length() == 0)
+    public String longestPalindrome(String s) {
+        if (s == null || s.length() < 1)
             return "";
 
-        String t = "#" + String.join("#", s.split("")) + "#";
-        int n = t.length();
-        int[] p = new int[n];
-        int center = 0, right = 0, maxLen = 0, centerIndex = 0;
+        int start = 0, end = 0;
+        for (int i = 0; i < s.length(); i++) {
+            int len1 = expandFromCenter(s, i, i); // Odd length
+            int len2 = expandFromCenter(s, i, i + 1); // Even length
+            int len = Math.max(len1, len2);
 
-        for (int i = 0; i < n; i++) {
-            int mirror = 2 * center - i;
-            if (i < right) {
-                p[i] = Math.min(right - i, p[mirror]);
-            }
-
-            int a = i + (1 + p[i]);
-            int b = i - (1 + p[i]);
-            while (a < n && b >= 0 && t.charAt(a) == t.charAt(b)) {
-                p[i]++;
-                a++;
-                b--;
-            }
-
-            if (i + p[i] > right) {
-                center = i;
-                right = i + p[i];
-            }
-
-            if (p[i] > maxLen) {
-                maxLen = p[i];
-                centerIndex = i;
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
             }
         }
 
-        int start = (centerIndex - maxLen) / 2;
-        return s.substring(start, start + maxLen);
+        return s.substring(start, end + 1);
+    }
+
+    private int expandFromCenter(String s, int left, int right) {
+
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
+        }
+        return right - left - 1;
     }
 }
