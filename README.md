@@ -593,6 +593,10 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 
 <img src="leetcode_stats.png" alt="LeetCode Stats" width="300">
