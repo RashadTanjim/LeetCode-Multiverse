@@ -602,6 +602,7 @@ Collection of LeetCode questions & solutions.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0175-combine-two-tables) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
 
