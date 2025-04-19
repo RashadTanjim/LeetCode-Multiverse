@@ -6,14 +6,21 @@ class Solution {
             freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
         }
 
-        PriorityQueue<Map.Entry<Integer, Integer>> maxHeap = new PriorityQueue<>((a, b) -> b.getValue() - a.getValue());
-        maxHeap.addAll(freqMap.entrySet());
+        List<Integer>[] bucket = new List[nums.length + 1];
+        for (int key : freqMap.keySet()) {
+            int freq = freqMap.get(key);
 
-        int[] result = new int[k];
-        for (int i = 0; i < k; i++) {
-            result[i] = maxHeap.poll().getKey();
+            if (bucket[freq] == null)
+                bucket[freq] = new ArrayList<>();
+            bucket[freq].add(key);
         }
 
-        return result;
+        List<Integer> result = new ArrayList<>();
+        for (int i = bucket.length - 1; i >= 0 && result.size() < k; i--) {
+            if (bucket[i] != null)
+                result.addAll(bucket[i]);
+        }
+
+        return result.stream().mapToInt(i -> i).toArray();
     }
 }
