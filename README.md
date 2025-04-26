@@ -86,6 +86,7 @@ Collection of LeetCode questions & solutions.
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -224,6 +225,7 @@ Collection of LeetCode questions & solutions.
 | [0224-basic-calculator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -566,6 +568,7 @@ Collection of LeetCode questions & solutions.
 | [0201-bitwise-and-of-numbers-range](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0222-count-complete-tree-nodes) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Graph
 |  |
 | ------- |
