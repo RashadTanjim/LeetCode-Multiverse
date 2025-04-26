@@ -85,6 +85,7 @@ Collection of LeetCode questions & solutions.
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Collection of LeetCode questions & solutions.
 | [0202-happy-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -561,6 +563,7 @@ Collection of LeetCode questions & solutions.
 | [0191-number-of-1-bits](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0222-count-complete-tree-nodes) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Graph
 |  |
 | ------- |
@@ -645,6 +648,10 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
 
 <img src="leetcode_stats.png" alt="LeetCode Stats" width="300">
