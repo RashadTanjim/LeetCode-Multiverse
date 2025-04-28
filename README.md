@@ -74,6 +74,7 @@ Collection of LeetCode questions & solutions.
 | [0283-move-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions & solutions.
 | [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -659,6 +661,14 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
 
 <img src="leetcode_stats.png" alt="LeetCode Stats" width="300">
