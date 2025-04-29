@@ -165,6 +165,7 @@ Collection of LeetCode questions & solutions.
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0383-ransom-note) |
+| [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -272,6 +273,7 @@ Collection of LeetCode questions & solutions.
 | [0295-find-median-from-data-stream](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 ## Randomized
 |  |
 | ------- |
@@ -434,10 +436,12 @@ Collection of LeetCode questions & solutions.
 | [0141-linked-list-cycle](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0148-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 ## Tree
 |  |
 | ------- |
