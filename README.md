@@ -72,6 +72,7 @@ Collection of LeetCode questions & solutions.
 | [0238-product-of-array-except-self](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions & solutions.
 | [0189-rotate-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
@@ -376,6 +378,7 @@ Collection of LeetCode questions & solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
@@ -577,6 +580,7 @@ Collection of LeetCode questions & solutions.
 | [0191-number-of-1-bits](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Graph
