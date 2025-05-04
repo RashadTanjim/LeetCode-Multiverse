@@ -2,17 +2,16 @@ class Solution {
     public void sortColors(int[] nums) {
         int[] count = new int[3];
 
-        // Count occurrences using streams
-        IntStream.range(0, nums.length)
-                .forEach(i -> count[nums[i]]++);
+        for (int num : nums) {
+            count[num]++;
+        }
 
-        // Fill nums using flatMap and forEachOrdered
-        int[] sorted = IntStream.range(0, 3)
-                .flatMap(i -> IntStream.range(0, count[i]).map(j -> i))
-                .toArray();
+        int index = 0;
+        for (int i = 0; i <= 2; i++) {
 
-        // Copy back to the original array
-        IntStream.range(0, nums.length)
-                .forEach(i -> nums[i] = sorted[i]);
+            while (count[i]-- > 0) {
+                nums[index++] = i;
+            }
+        }
     }
 }
