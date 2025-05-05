@@ -12,6 +12,7 @@ Collection of LeetCode questions & solutions.
 | [0015-3sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0035-search-insert-position) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions & solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0075-sort-colors) |
