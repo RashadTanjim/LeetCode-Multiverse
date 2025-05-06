@@ -87,6 +87,7 @@ Collection of LeetCode questions & solutions.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
@@ -307,10 +308,12 @@ Collection of LeetCode questions & solutions.
 | [0155-min-stack](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0224-basic-calculator) |
+| [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
