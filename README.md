@@ -308,6 +308,7 @@ Collection of LeetCode questions & solutions.
 | [0155-min-stack](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -352,6 +353,7 @@ Collection of LeetCode questions & solutions.
 | [0290-word-pattern](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
@@ -432,6 +434,7 @@ Collection of LeetCode questions & solutions.
 | [0025-reverse-nodes-in-k-group](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
