@@ -175,6 +175,7 @@ Collection of LeetCode questions & solutions.
 | [0383-ransom-note](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -359,6 +360,7 @@ Collection of LeetCode questions & solutions.
 | [0394-decode-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
@@ -403,6 +405,7 @@ Collection of LeetCode questions & solutions.
 | [0076-minimum-window-substring](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Matrix
 |  |
