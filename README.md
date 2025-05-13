@@ -74,6 +74,7 @@ Collection of LeetCode questions & solutions.
 | [0221-maximal-square](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions & solutions.
 | [0076-minimum-window-substring](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Matrix
@@ -644,6 +646,7 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -652,11 +655,13 @@ Collection of LeetCode questions & solutions.
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Quickselect
