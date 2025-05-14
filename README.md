@@ -75,6 +75,7 @@ Collection of LeetCode questions & solutions.
 | [0228-summary-ranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions & solutions.
 | [0190-reverse-bits](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
@@ -396,6 +398,7 @@ Collection of LeetCode questions & solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
@@ -424,6 +427,7 @@ Collection of LeetCode questions & solutions.
 | [0200-number-of-islands](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
