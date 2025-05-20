@@ -17,15 +17,12 @@ class Solution {
             }
         }
 
-        if (freshCount == 0)
-            return 0;
-
         int minutes = 0;
         int[][] directions = { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
 
-        while (!queue.isEmpty()) {
+        while (!queue.isEmpty() && freshCount >= 1) {
             int size = queue.size();
-            boolean infected = false;
+            minutes++;
 
             for (int i = 0; i < size; i++) {
                 int[] pos = queue.poll();
@@ -39,13 +36,9 @@ class Solution {
                         grid[newR][newC] = 2;
                         queue.offer(new int[] { newR, newC });
                         freshCount--;
-                        infected = true;
                     }
                 }
             }
-
-            if (infected)
-                minutes++;
         }
 
         return freshCount == 0 ? minutes : -1;
