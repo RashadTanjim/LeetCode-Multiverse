@@ -741,6 +741,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1187-print-foobar-alternately) |
+| [1216-print-zero-even-odd](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1216-print-zero-even-odd) |
 <!---LeetCode Topics End-->
 
 <img src="leetcode_stats.png" alt="LeetCode Stats" width="300">
