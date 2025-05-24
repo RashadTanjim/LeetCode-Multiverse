@@ -1,39 +1,73 @@
-public class ZeroEvenOdd {
-    private int n;
-    private Semaphore zeroSem = new Semaphore(1);
-    private Semaphore oddSem = new Semaphore(0);
-    private Semaphore evenSem = new Semaphore(0);
+class ZeroEvenOdd {
+    private final int n;
+    private final Lock lock = new ReentrantLock();
+    private final Condition zeroCondition = lock.newCondition();
+    private final Condition numbCondition = lock.newCondition();
+    private volatile boolean zeroTime = true;
+    private final AtomicInteger curr = new AtomicInteger(1);
 
     public ZeroEvenOdd(int n) {
         this.n = n;
     }
 
+    // printNumber.accept(x) outputs "x", where x is an integer.
     public void zero(IntConsumer printNumber) throws InterruptedException {
-        for (int i = 1; i <= n; i++) {
-            zeroSem.acquire();
-            printNumber.accept(0);
-            if (i % 2 == 1) {
-                oddSem.release();
-            } else {
-                evenSem.release();
+        while (curr.get() <= n) {
+            try {
+                lock.lock();
+                while (!zeroTime) {
+                    zeroCondition.await();
+                }
+                if (curr.get() <= n) {
+                    printNumber.accept(0);
+                }
+
+                zeroTime = false;
+                numbCondition.signalAll();
+            } finally {
+                lock.unlock();
             }
         }
     }
 
     public void even(IntConsumer printNumber) throws InterruptedException {
-        for (int i = 2; i <= n; i += 2) {
-            evenSem.acquire();
-            printNumber.accept(i);
-            zeroSem.release();
+        while (curr.get() < n) {
+            try {
+                lock.lock();
+                while (zeroTime || curr.get() % 2 != 0) {
+                    numbCondition.await();
+                }
+
+                if (curr.get() <= n) {
+                    printNumber.accept(curr.get());
+                }
+
+                curr.getAndIncrement();
+                zeroTime = true;
+                zeroCondition.signal();
+            } finally {
+                lock.unlock();
+            }
         }
     }
 
     public void odd(IntConsumer printNumber) throws InterruptedException {
-        for (int i = 1; i <= n; i += 2) {
-            oddSem.acquire();
-            printNumber.accept(i);
-            zeroSem.release();
+        while (curr.get() <= n) {
+            try {
+                lock.lock();
+                while (zeroTime || curr.get() % 2 == 0) {
+                    numbCondition.await();
+                }
+
+                if (curr.get() <= n) {
+                    printNumber.accept(curr.get());
+                }
+                curr.getAndIncrement();
+                zeroTime = true;
+                zeroCondition.signal();
+            } finally {
+                lock.unlock();
+            }
         }
     }
-
 }
