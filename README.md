@@ -87,6 +87,7 @@ Collection of LeetCode questions & solutions.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions & solutions.
 | [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0416-partition-equal-subset-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1250-longest-common-subsequence) |
 ## Greedy
