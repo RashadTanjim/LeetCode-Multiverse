@@ -82,6 +82,7 @@ Collection of LeetCode questions & solutions.
 | [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
@@ -304,6 +305,7 @@ Collection of LeetCode questions & solutions.
 | [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
@@ -316,6 +318,7 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
