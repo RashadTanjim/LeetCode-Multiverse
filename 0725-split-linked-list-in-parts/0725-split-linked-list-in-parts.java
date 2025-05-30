@@ -10,32 +10,32 @@
  */
 class Solution {
     public ListNode[] splitListToParts(ListNode head, int k) {
-        List<ListNode> nodeList = new ArrayList<>();
-        while (head != null) {
-            nodeList.add(head);
-            head = head.next;
+        ListNode[] result = new ListNode[k];
+        int length = 0;
+        ListNode current = head;
+
+        while (current != null) {
+            length++;
+            current = current.next;
         }
 
-        int n = nodeList.size();
-        int width = n / k, extra = n % k;
-        ListNode[] result = new ListNode[k];
+        int partSize = length / k;
+        int longerParts = length % k;
 
-        int index = 0;
+        current = head;
         for (int i = 0; i < k; i++) {
-            int partSize = width + (i < extra ? 1 : 0);
+            result[i] = current;
+            int currentPartSize = partSize + (i < longerParts ? 1 : 0);
 
-            if (partSize == 0) {
-                result[i] = null;
-                continue;
+            for (int j = 0; j < currentPartSize - 1 && current != null; j++) {
+                current = current.next;
             }
 
-            result[i] = nodeList.get(index);
-            for (int j = 0; j < partSize - 1; j++) {
-                nodeList.get(index + j).next = nodeList.get(index + j + 1);
+            if (current != null) {
+                ListNode nextPartHead = current.next;
+                current.next = null;
+                current = nextPartHead;
             }
-
-            nodeList.get(index + partSize - 1).next = null;
-            index += partSize;
         }
 
         return result;
