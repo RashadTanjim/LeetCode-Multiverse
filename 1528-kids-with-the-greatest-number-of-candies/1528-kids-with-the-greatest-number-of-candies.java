@@ -8,7 +8,7 @@ class Solution {
             }
         }
 
-        List<Boolean> result = new java.util.ArrayList<>();
+        List<Boolean> result = new ArrayList<>();
         for (int candy : candies) {
             result.add(candy + extraCandies >= maxCandies);
         }
