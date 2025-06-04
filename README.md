@@ -93,6 +93,7 @@ Collection of LeetCode questions & solutions.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions & solutions.
 | [0135-candy](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 ## Hash Table
 |  |
