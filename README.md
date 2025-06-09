@@ -95,6 +95,7 @@ Collection of LeetCode questions & solutions.
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
@@ -456,6 +457,7 @@ Collection of LeetCode questions & solutions.
 | [0219-contains-duplicate-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Matrix
