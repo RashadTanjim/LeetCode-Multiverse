@@ -409,6 +409,7 @@ Collection of LeetCode questions & solutions.
 | [1146-greatest-common-divisor-of-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1250-longest-common-subsequence) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
@@ -460,6 +461,7 @@ Collection of LeetCode questions & solutions.
 | [0643-maximum-average-subarray-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Matrix
 |  |
 | ------- |
