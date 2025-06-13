@@ -107,6 +107,7 @@ Collection of LeetCode questions & solutions.
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions & solutions.
 | [0303-range-sum-query-immutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1833-find-the-highest-altitude) |
 ## Stack
 |  |
 | ------- |
