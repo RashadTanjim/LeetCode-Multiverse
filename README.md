@@ -110,6 +110,7 @@ Collection of LeetCode questions & solutions.
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2102-find-the-middle-index-in-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2102-find-the-middle-index-in-array) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions & solutions.
 | [0724-find-pivot-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2102-find-the-middle-index-in-array) |
 ## Stack
 |  |
 | ------- |
