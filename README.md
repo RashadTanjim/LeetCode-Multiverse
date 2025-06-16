@@ -150,6 +150,7 @@ Collection of LeetCode questions & solutions.
 | [0392-is-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0416-partition-equal-subset-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
+| [1236-n-th-tribonacci-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
@@ -278,6 +279,7 @@ Collection of LeetCode questions & solutions.
 | [0279-perfect-squares](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1236-n-th-tribonacci-number) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -759,6 +761,7 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
