@@ -540,6 +540,7 @@ Collection of LeetCode questions & solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0725-split-linked-list-in-parts) |
 ## Doubly-Linked List
