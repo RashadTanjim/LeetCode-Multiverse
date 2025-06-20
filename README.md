@@ -103,6 +103,7 @@ Collection of LeetCode questions & solutions.
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
 | [1036-rotting-oranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -372,12 +373,14 @@ Collection of LeetCode questions & solutions.
 | [0234-palindrome-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## String
 |  |
 | ------- |
