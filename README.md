@@ -589,6 +589,7 @@ Collection of LeetCode questions & solutions.
 | [0543-diameter-of-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
+| [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -618,6 +619,7 @@ Collection of LeetCode questions & solutions.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -673,6 +675,7 @@ Collection of LeetCode questions & solutions.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
