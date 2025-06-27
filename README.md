@@ -471,6 +471,7 @@ Collection of LeetCode questions & solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -818,6 +819,10 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1187-print-foobar-alternately) |
 | [1216-print-zero-even-odd](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1216-print-zero-even-odd) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
 
 <img src="leetcode_stats.png" alt="LeetCode Stats" width="300">
