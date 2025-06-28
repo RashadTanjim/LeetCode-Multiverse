@@ -590,6 +590,7 @@ Collection of LeetCode questions & solutions.
 | [0543-diameter-of-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -676,6 +677,7 @@ Collection of LeetCode questions & solutions.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
@@ -686,6 +688,7 @@ Collection of LeetCode questions & solutions.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0783-search-in-a-binary-search-tree) |
 ## Iterator
 |  |
 | ------- |
