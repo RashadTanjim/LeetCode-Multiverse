@@ -217,6 +217,7 @@ Collection of LeetCode questions & solutions.
 | [1319-unique-number-of-occurrences](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
+| [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
@@ -255,6 +256,7 @@ Collection of LeetCode questions & solutions.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
+| [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
@@ -264,6 +266,7 @@ Collection of LeetCode questions & solutions.
 | [0383-ransom-note](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0387-first-unique-character-in-a-string) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
+| [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -436,6 +439,7 @@ Collection of LeetCode questions & solutions.
 | [1250-longest-common-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1250-longest-common-subsequence) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
