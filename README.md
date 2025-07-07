@@ -395,6 +395,7 @@ Collection of LeetCode questions & solutions.
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [2470-removing-stars-from-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -455,6 +456,7 @@ Collection of LeetCode questions & solutions.
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -475,6 +477,7 @@ Collection of LeetCode questions & solutions.
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
