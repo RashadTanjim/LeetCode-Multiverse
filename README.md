@@ -359,6 +359,7 @@ Collection of LeetCode questions & solutions.
 | [0307-range-sum-query-mutable](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
+| [0937-online-stock-span](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2413-smallest-number-in-infinite-set) |
 ## Randomized
@@ -394,6 +395,7 @@ Collection of LeetCode questions & solutions.
 | [0394-decode-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2470-removing-stars-from-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -402,6 +404,7 @@ Collection of LeetCode questions & solutions.
 | [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## String
 |  |
@@ -803,6 +806,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0969-number-of-recent-calls) |
 ## Geometry
 |  |
