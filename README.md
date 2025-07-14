@@ -629,6 +629,7 @@ Collection of LeetCode questions & solutions.
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -659,6 +660,7 @@ Collection of LeetCode questions & solutions.
 | [0543-diameter-of-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -686,6 +688,7 @@ Collection of LeetCode questions & solutions.
 | [0833-bus-routes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -717,6 +720,7 @@ Collection of LeetCode questions & solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
