@@ -101,6 +101,7 @@ Collection of LeetCode questions & solutions.
 | [0643-maximum-average-subarray-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions & solutions.
 | [0234-palindrome-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions & solutions.
 | [0067-add-binary](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
+| [0735-asteroid-collision](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
