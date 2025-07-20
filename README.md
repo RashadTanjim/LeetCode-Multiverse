@@ -126,6 +126,7 @@ Collection of LeetCode questions & solutions.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2636-maximum-subsequence-score) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions & solutions.
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
+| [2636-maximum-subsequence-score](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2636-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Collection of LeetCode questions & solutions.
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2636-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -809,6 +812,7 @@ Collection of LeetCode questions & solutions.
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2636-maximum-subsequence-score) |
 ## Queue
 |  |
 | ------- |
