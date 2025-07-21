@@ -117,6 +117,7 @@ Collection of LeetCode questions & solutions.
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions & solutions.
 | [0435-non-overlapping-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
+| [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -473,6 +475,7 @@ Collection of LeetCode questions & solutions.
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
@@ -486,6 +489,7 @@ Collection of LeetCode questions & solutions.
 | [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0212-word-search-ii) |
+| [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 ## String Matching
 |  |
 | ------- |
@@ -520,6 +524,7 @@ Collection of LeetCode questions & solutions.
 | [0374-guess-number-higher-or-lower](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
+| [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -810,6 +815,7 @@ Collection of LeetCode questions & solutions.
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
+| [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2636-maximum-subsequence-score) |
