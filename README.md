@@ -677,6 +677,7 @@ Collection of LeetCode questions & solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -705,6 +706,7 @@ Collection of LeetCode questions & solutions.
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -774,6 +776,7 @@ Collection of LeetCode questions & solutions.
 | [0207-course-schedule](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Shortest Path
 |  |
 | ------- |
