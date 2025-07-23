@@ -361,6 +361,7 @@ Collection of LeetCode questions & solutions.
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
@@ -608,6 +609,7 @@ Collection of LeetCode questions & solutions.
 | [0328-odd-even-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0725-split-linked-list-in-parts) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
