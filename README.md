@@ -362,6 +362,7 @@ Collection of LeetCode questions & solutions.
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
@@ -418,6 +419,7 @@ Collection of LeetCode questions & solutions.
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -611,6 +613,7 @@ Collection of LeetCode questions & solutions.
 | [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0725-split-linked-list-in-parts) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
