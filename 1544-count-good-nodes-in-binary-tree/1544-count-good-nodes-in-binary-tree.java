@@ -22,14 +22,11 @@ class Solution {
         if (node == null)
             return 0;
 
-        int good = 0;
-        if (node.val >= maxSoFar)
-            good = 1;
-
+        int good = node.val >= maxSoFar ? 1 : 0;
         maxSoFar = Math.max(maxSoFar, node.val);
         good += dfs(node.left, maxSoFar);
         good += dfs(node.right, maxSoFar);
-        
+
         return good;
     }
 }
