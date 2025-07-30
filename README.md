@@ -788,6 +788,7 @@ Collection of LeetCode questions & solutions.
 | [0222-count-complete-tree-nodes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0338-counting-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Graph
