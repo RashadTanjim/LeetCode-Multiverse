@@ -126,6 +126,7 @@ Collection of LeetCode questions & solutions.
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2102-find-the-middle-index-in-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2636-maximum-subsequence-score) |
@@ -574,6 +575,7 @@ Collection of LeetCode questions & solutions.
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1036-rotting-oranges) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
 ## Union Find
 |  |
@@ -741,6 +743,7 @@ Collection of LeetCode questions & solutions.
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
