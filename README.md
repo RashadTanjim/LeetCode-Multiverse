@@ -318,6 +318,7 @@ Collection of LeetCode questions & solutions.
 | [0149-max-points-on-a-line](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0202-happy-number) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions & solutions.
 | [0139-word-break](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0211-design-add-and-search-words-data-structure) |
