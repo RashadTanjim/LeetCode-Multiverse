@@ -130,6 +130,7 @@ Collection of LeetCode questions & solutions.
 | [2102-find-the-middle-index-in-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2102-find-the-middle-index-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2636-maximum-subsequence-score) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions & solutions.
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -523,6 +525,7 @@ Collection of LeetCode questions & solutions.
 | [0735-asteroid-collision](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
 | ------- |
@@ -873,6 +876,7 @@ Collection of LeetCode questions & solutions.
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2636-maximum-subsequence-score) |
 ## Queue
 |  |
