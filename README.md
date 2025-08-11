@@ -241,6 +241,7 @@ Collection of LeetCode questions & solutions.
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0833-bus-routes) |
 | [1319-unique-number-of-occurrences](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1319-unique-number-of-occurrences) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions & solutions.
 | [0345-reverse-vowels-of-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1894-merge-strings-alternately) |
@@ -491,6 +493,7 @@ Collection of LeetCode questions & solutions.
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
@@ -558,6 +561,7 @@ Collection of LeetCode questions & solutions.
 | [0219-contains-duplicate-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
