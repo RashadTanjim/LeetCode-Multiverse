@@ -109,6 +109,7 @@ Collection of LeetCode questions & solutions.
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
+| [0792-binary-search](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0833-bus-routes) |
 | [0907-koko-eating-bananas](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
@@ -547,6 +548,7 @@ Collection of LeetCode questions & solutions.
 | [0287-find-the-duplicate-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
