@@ -100,6 +100,7 @@ Collection of LeetCode questions & solutions.
 | [0435-non-overlapping-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
+| [0542-01-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0643-maximum-average-subarray-i) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions & solutions.
 | [0392-is-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0747-min-cost-climbing-stairs) |
@@ -588,6 +590,7 @@ Collection of LeetCode questions & solutions.
 | [0221-maximal-square](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0542-01-matrix) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1036-rotting-oranges) |
@@ -751,6 +754,7 @@ Collection of LeetCode questions & solutions.
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0833-bus-routes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0833-bus-routes) |
