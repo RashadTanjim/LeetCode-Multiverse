@@ -2,7 +2,7 @@ class Solution {
     public int[][] highestPeak(int[][] isWater) {
         int m = isWater.length, n = isWater[0].length;
         int[][] height = new int[m][n];
-        Queue<int[]> queue = new LinkedList<>();
+        Deque<int[]> queue = new ArrayDeque<>();
 
         for (int[] row : height)
             Arrays.fill(row, -1);
