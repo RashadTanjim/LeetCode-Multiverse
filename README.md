@@ -77,6 +77,7 @@ Collection of LeetCode questions & solutions.
 | [0212-word-search-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0228-summary-ranges) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions & solutions.
 | [0202-happy-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0290-word-pattern) |
@@ -288,6 +290,7 @@ Collection of LeetCode questions & solutions.
 | [0148-sort-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0295-find-median-from-data-stream) |
