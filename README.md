@@ -252,6 +252,7 @@ Collection of LeetCode questions & solutions.
 | [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0833-bus-routes) |
+| [1023-time-based-key-value-store](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions & solutions.
 | [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 | [0937-online-stock-span](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0969-number-of-recent-calls) |
+| [1023-time-based-key-value-store](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1023-time-based-key-value-store) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2413-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
@@ -512,6 +514,7 @@ Collection of LeetCode questions & solutions.
 | [0649-dota2-senate](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
+| [1023-time-based-key-value-store](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
@@ -565,6 +568,7 @@ Collection of LeetCode questions & solutions.
 | [0374-guess-number-higher-or-lower](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2392-successful-pairs-of-spells-and-potions) |
