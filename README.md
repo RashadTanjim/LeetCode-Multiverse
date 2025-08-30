@@ -106,6 +106,7 @@ Collection of LeetCode questions & solutions.
 | [0605-can-place-flowers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0735-asteroid-collision) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions & solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0833-bus-routes) |
 | [1023-time-based-key-value-store](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1023-time-based-key-value-store) |
@@ -300,6 +302,7 @@ Collection of LeetCode questions & solutions.
 | [0435-non-overlapping-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
+| [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
@@ -514,6 +517,7 @@ Collection of LeetCode questions & solutions.
 | [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -623,6 +627,7 @@ Collection of LeetCode questions & solutions.
 | [0200-number-of-islands](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 ## Recursion
 |  |
 | ------- |
@@ -747,6 +752,7 @@ Collection of LeetCode questions & solutions.
 | [0543-diameter-of-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0904-leaf-similar-trees) |
@@ -782,6 +788,7 @@ Collection of LeetCode questions & solutions.
 | [0542-01-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0733-flood-fill) |
 | [0833-bus-routes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0871-keys-and-rooms) |
