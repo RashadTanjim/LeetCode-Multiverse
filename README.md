@@ -748,6 +748,7 @@ Collection of LeetCode questions & solutions.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -783,6 +784,7 @@ Collection of LeetCode questions & solutions.
 | [0226-invert-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
@@ -879,6 +881,7 @@ Collection of LeetCode questions & solutions.
 | [0133-clone-graph](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0871-keys-and-rooms) |
@@ -892,6 +895,7 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0310-minimum-height-trees) |
 ## Backtracking
 |  |
 | ------- |
