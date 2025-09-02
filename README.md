@@ -104,6 +104,7 @@ Collection of LeetCode questions & solutions.
 | [0542-01-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions & solutions.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions & solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0833-bus-routes) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions & solutions.
 | [0435-non-overlapping-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
@@ -316,6 +320,7 @@ Collection of LeetCode questions & solutions.
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
@@ -928,6 +933,7 @@ Collection of LeetCode questions & solutions.
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2413-smallest-number-in-infinite-set) |
