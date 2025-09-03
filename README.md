@@ -119,6 +119,7 @@ Collection of LeetCode questions & solutions.
 | [0907-koko-eating-bananas](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1046-max-consecutive-ones-iii) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions & solutions.
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Collection of LeetCode questions & solutions.
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0721-accounts-merge) |
+| [1014-k-closest-points-to-origin](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1777-determine-if-two-strings-are-close) |
@@ -348,6 +351,7 @@ Collection of LeetCode questions & solutions.
 | [0224-basic-calculator](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0380-insert-delete-getrandom-o1) |
+| [1014-k-closest-points-to-origin](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1236-n-th-tribonacci-number) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -934,6 +938,7 @@ Collection of LeetCode questions & solutions.
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
+| [1014-k-closest-points-to-origin](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1397-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2413-smallest-number-in-infinite-set) |
@@ -960,6 +965,7 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1014-k-closest-points-to-origin) |
 ## Data Stream
 |  |
 | ------- |
@@ -970,6 +976,7 @@ Collection of LeetCode questions & solutions.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0149-max-points-on-a-line) |
+| [1014-k-closest-points-to-origin](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
