@@ -100,6 +100,7 @@ Collection of LeetCode questions & solutions.
 | [0416-partition-equal-subset-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions & solutions.
 | [0432-all-oone-data-structure](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0621-task-scheduler) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions & solutions.
 | [0232-implement-queue-using-stacks](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
@@ -471,6 +474,7 @@ Collection of LeetCode questions & solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0937-online-stock-span) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1305-number-of-visible-people-in-a-queue) |
