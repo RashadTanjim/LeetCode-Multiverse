@@ -100,6 +100,7 @@ Collection of LeetCode questions & solutions.
 | [0416-partition-equal-subset-sum](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0542-01-matrix) |
